@@ -1,4 +1,4 @@
-# PROJECT: Create and Mint Token
+# ETH+AVAX PROJECT: Create and Mint Token
 
 This Solidity program is a basic implementation of an ERC20 token system with added functionality for minting, burning, and transferring tokens. The program showcases the management of token supply, owner permissions, and basic token interactions on the Ethereum blockchain.
 
